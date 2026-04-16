@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/home/sean/code/active/sessionpad-firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

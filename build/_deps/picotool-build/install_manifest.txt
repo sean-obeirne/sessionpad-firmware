@@ -1,0 +1,7 @@
+/home/sean/code/active/sessionpad-firmware/build/_deps/picotool/picotool
+/home/sean/code/active/sessionpad-firmware/build/_deps/picotool/picotoolTargets.cmake
+/home/sean/code/active/sessionpad-firmware/build/_deps/picotool/picotoolTargets-release.cmake
+/home/sean/code/active/sessionpad-firmware/build/_deps/picotool/picotoolConfig.cmake
+/home/sean/code/active/sessionpad-firmware/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/sean/code/active/sessionpad-firmware/build/_deps/picotool/enc_bootloader.elf
+/home/sean/code/active/sessionpad-firmware/build/_deps/picotool/enc_bootloader_mbedtls.elf
