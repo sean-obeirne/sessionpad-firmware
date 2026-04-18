@@ -1,3 +1,0 @@
-/home/sean/code/active/sessionpad-firmware/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
-/home/sean/code/active/sessionpad-firmware/build/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
-/home/sean/code/active/sessionpad-firmware/build/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir

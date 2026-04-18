@@ -1,2 +1,0 @@
-/home/sean/code/active/sessionpad-firmware/build/_deps/picotool-build/enc_bootloader/CMakeFiles/edit_cache.dir
-/home/sean/code/active/sessionpad-firmware/build/_deps/picotool-build/enc_bootloader/CMakeFiles/rebuild_cache.dir
